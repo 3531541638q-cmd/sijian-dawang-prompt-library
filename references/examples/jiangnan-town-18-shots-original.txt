@@ -1,0 +1,31 @@
+3.【画面质感与参数】
+iPhone手机自拍摄影，前置摄像头摄影，手机摄影滑动变焦感，模拟手持拍摄的抖动，自然光线，不要音乐，不要台词，不要字幕，
+【人物说明】
+女主角 {{Mixed 13}} 都市女性 年轻 23岁 性格开朗活泼 美甲 {{Mixed 12}} ，爱摄影
+【道具说明】
+女主角个人的手机iPhone Air {{Mixed 2}} ，随时无聊时候会带的耳机 {{Mixed 1}} ，
+【画面情绪风格说明】
+日常的一天记录vlog分享，清新自然风光，以女主手持iPhone相机自拍为主，独居，体验江南独具特色的乡土人情风光，citywalk的感觉，轻松自然热烈的氛围感，iPhone自然成像，自然皮肤纹理，切镜头剪辑，快切闪切快节奏vlog，部分模拟手机镜头拍摄的空镜头展示
+【画面内容及视频动线及场景说明】重点！！！所有场景都要出现
+🌿 前半段：到达·穿搭·逛街（0~15s，9镜）
+镜号	时长	内容	场景参考图
+T01	1.5s	从竹林 {{Mixed 4}} 古道远处走来，拨开竹枝，阳光光斑跳动，第三视角跟拍全身	i-RX4p0rsbQW
+T02	2s	门楼前举iPhone {{Mixed 2}} Air {{Mixed 2}} 拍竹林 {{Mixed 4}} ，美甲 {{Mixed 12}} 点快门，转身比"耶"展示穿搭	i-RX4p0rsbQW
+T03	1.5s	老街踮脚往木框窗户 {{Mixed 3}} 里张望，回头对镜头笑，烟火气十足	i-2qSTUdj7mm
+T04	2s	靠斑驳白墙站立，美甲 {{Mixed 12}} 手拨弄绿植 {{Mixed 6}} ，侧身完整展示蓝毛衣 {{Mixed 13}} +蛋糕裙穿搭	i-2qSTUdj7mm
+T05	1.5s	被绿藤咖啡馆 {{Mixed 9}} 外墙吸引，仰头打量，美甲 {{Mixed 12}} 手指 {{Mixed 12}} 触碰藤蔓叶片	i-CyGG2Gsae0
+T06	2s	坐高脚凳捧饮品，美甲 {{Mixed 12}} 环绕杯身低头轻嗅，绿藤随风晃动，前置自拍	i-CyGG2Gsae0
+T07	1.5s	举iPhone {{Mixed 2}} Air {{Mixed 2}} 拍绿藤外墙，美甲 {{Mixed 12}} 点快门，翻转给镜头看照片	i-CyGG2Gsae0
+T08	1.5s	站石桥上望乌篷船 {{Mixed 7}} 驶过，绿柳垂河，侧身回头笑，头发被风吹起	i-eAN8Y50iBs
+T09	1.5s	坐乌篷船 {{Mixed 7}} 上，美甲 {{Mixed 12}} 手举iPhone {{Mixed 2}} Air {{Mixed 2}} 拍河岸，船晃动，转头大笑	i-hA8m7ojwrp
+🍵 后半段：美食·茶饮·收尾（15~30s，9镜）
+镜号	时长	内容	场景参考图
+T10	1.5s	蹲下看藤编果篮，美甲 {{Mixed 12}} 手拿起橙子掂掂，抬头挤眼笑，河面 {{Mixed 7}} 背景	i-RVVu3DUZGW
+T11	2s	坐水边茶摊，双手捧茶杯 {{Mixed 3}} ，美甲 {{Mixed 12}} 环绕杯身低头嗅茶香，抬头微笑	i-JU3wUPFXLp
+T12	1.5s	举iPhone {{Mixed 2}} Air {{Mixed 2}} 拍河面 {{Mixed 7}} 茶摊全景，随即戴上AirPods闭眼享受水边风	i-RVVu3DUZGW
+T13	1.5s	走进红灯笼 {{Mixed 5}} 小巷，仰头拨动灯笼 {{Mixed 5}} 轻晃，回头对镜头笑	i-5NI1816nAu
+T14	2s	坐竹椅，美甲 {{Mixed 12}} 手指 {{Mixed 12}} 夹点心 {{Mixed 8}} 送入嘴边，闭眼品味，托腮，红灯笼 {{Mixed 5}} 河道 {{Mixed 10}} 背景	i-5NI1816nAu
+T15	1.5s	前置自拍，红灯笼 {{Mixed 5}} +河道 {{Mixed 10}} 全纳背景，比"耶"，美甲 {{Mixed 12}} 清晰，活泼晃头	i-5NI1816nAu
+T16	1.5s	走进暗调茶室，双手贴窗望绿树 {{Mixed 9}} ，回头做"哇"的惊喜表情	i-inaMyn6EGu
+T17	2s	坐摇椅 {{Mixed 3}} 捧茶，美甲 {{Mixed 12}} 环绕杯身闭眼感受茶香，茶壶 {{Mixed 8}} 热气，窗外绿树 {{Mixed 9}} 	i-inaMyn6EGu
+T18	1s	戴AirPods靠摇椅 {{Mixed 3}} 轻摇，望窗外绿树 {{Mixed 9}} ，美甲 {{Mixed 12}} 点亮屏幕，淡出收尾	i-inaMyn6EGu

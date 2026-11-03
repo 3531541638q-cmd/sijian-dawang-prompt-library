@@ -1,0 +1,6 @@
+interface:
+  display_name: "思健大王总结的提示词堆"
+  short_description: "读懂内容后主动匹配与组合已收录写法，设计机位动作和素材方案，支持持续收录"
+  default_prompt: "请使用 $sijian-dawang-prompt-library，理解我提供的内容，自行选择或组合库中的合适写法，给出提示词和必要的素材清单。"
+policy:
+  allow_implicit_invocation: true
